@@ -1,1 +1,1 @@
-# [Basic Todo-App](https://erenhncr.github.io/exchange-rates-app/)
+# [Exchange-Rates-App](https://erenhncr.github.io/exchange-rates-app/)
